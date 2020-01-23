@@ -1,5 +1,5 @@
 # Simplest-Spring-Boot-Hello-World
-Simplest Spring Boot Hello World Examples
+Simplest Spring Boot Hello World Example
 
 
 # Steps
